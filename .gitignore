@@ -1,0 +1,5 @@
+# Ignore the main data folder and all its contents
+data/melanoma_cancer_dataset/
+data/melanoma_cancer_dataset/*.jpg
+kaggle.json
+.DS_Store
